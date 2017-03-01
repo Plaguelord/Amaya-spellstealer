@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: |cFF40d2ffAmaya's|r |cFF99CC01SpellStealer|r
+## Version: 1.0.0
+## Notes: Creates a small frame, prioritized by must steal, followed by normal stealable spells from your current target, orderd by remaining time.
+## Author: Amaya
+
+Amaya-SpellStealer.xml
+ASSOptions.xml

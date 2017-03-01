@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Amaya's SpellStealer Addon
 
-You can use the [editor on GitHub](https://github.com/Plaguelord/Amaya-spellstealer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### _Description_
+This is the public repo of [Amaya's SpellStealer Addon](https://google.com)
 
-### Markdown
+This addon was created using as inspiration other like [Mage nuggets](https://mods.curse.com/addons/wow/mage-nuggets) and 
+[SpellStealer](https://mods.curse.com/addons/wow/spellstealer).\
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Amaya's SpellStealer Addon](https://google.com) creates a couple of frames, prioritizing spells on your current target 
+(by _strata_ or _user config_), ordered by _remaining time_ (showing its cooldown on top of spell icon).
 
-```markdown
-Syntax highlighted code block
+#### _Internal script_
 
-# Header 1
-## Header 2
-### Header 3
+If you want to benefit from the simple _.bat_ script that copy [Amaya's SpellStealer Addon](https://google.com) to WoW's
+addon folder, you'll need to create a system variable called **_WOW_ADDONS_HOME_** pointing to your WoW's addons folder.
 
-- Bulleted
-- List
+#### _Requests_
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### _Support_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Plaguelord/Amaya-spellstealer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having troubles with the addon? Check out [this](https://google.com/) or contact me at 
+[@Amaya_PvP](https://twitter.com/Amaya_PvP).
